@@ -1,3 +1,5 @@
+In this very technologically advanced age, the Internet is a very important tool. Here is a record of some important tools for easy sharing and collection.
+
 ### Pep Using Website
 * Update time：2024-07-16
 * back up some WebUrls
@@ -8,7 +10,7 @@ Some pretty good video resource sites, through which you can find the daily need
 | :----- | :----- | :----- |
 | Youtube | https://www.youtube.com/ |  The world's largest video resource site★ |
 | Netflix |   https://www.netflix.com/ |   NFLX，A place where the biggest movie and television hits of the stars are concentrated★ | 
-| Pornhub |   https://cn.pornhub.com/  | The world's largest adult video site  | 
+| Pornhub |   https://pornhub.com/  | The world's largest adult video site  | 
 | | | |
 
 2.Some useful tool websites
@@ -48,5 +50,5 @@ Here is a summary of some informational and trading websites related to Bitcoin,
 | Coingecko | https://www.coingecko.com/ | One of the top crypto coin information platforms |
 | | | |
 
-
+Additional resources and tools will continue to be summarized and released subsequently as the industry rapidly evolves.
 
