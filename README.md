@@ -9,6 +9,7 @@ Some pretty good video resource sites, through which you can find the daily need
 | name | site | note |
 | :----- | :----- | :----- |
 | Youtube | https://www.youtube.com/ |  The world's largest video resource site★ |
+| save youtube video | https://saveyouvideo.com// |  Youtube Video Downloader★ |
 | Netflix |   https://www.netflix.com/ |   NFLX，A place where the biggest movie and television hits of the stars are concentrated★ | 
 | Pornhub |   https://pornhub.com/  | The world's largest adult video site  | 
 | | | |
@@ -25,9 +26,8 @@ Some amazing websites can bring great convenience to the world!
 In the same way that you need tools for everyday life, surfing the web also requires some tools.
 | name | site | note |
 | :----- | :----- | :----- |
-| y2mate | https://y2mate.com// |  Youtube Video Downloader★ |
-| download pornhub videos |   https://www.savepornvideo.com/ |   pornhub Video Downloader★ | 
 | chatgpt |  https://openai.com/chatgpt/  | The best AI assistant  | 
+| download pornhub videos |   https://www.savepornvideo.com/ |   pornhub Video Downloader★ | 
 | | | |
 
 4.Useful Resource Websites
