@@ -72,7 +72,7 @@ Some useful resource sites to color people's lives
 | :----- | :----- | :----- |
 | Jable | https://jable.tv/ |  Old Driver Website★ |
 | Missav |   https://missav.com |   Large number of video resources and seed downloads★ | 
-| Jav bt download |  https://www.javknown.com/ | jav porn video downloader★  | 
+| Jav bt download |  https://www.javfly.com/ | jav porn video downloader★  | 
 | FC2 | https://fc2.com/ | FC2 You known |
 | | | |
 
